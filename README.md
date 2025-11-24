@@ -4,6 +4,13 @@ Contact: <br/>
 Jonathon Wright (jswright@tsinghua.edu.cn)<br/>
 [jonathonwright.github.io](https://jonathonwright.github.io/)
 
+Google CoLab links:
+- 01: https://colab.research.google.com/github/APARCAI4CLimateSchool/HandsOn_GettingStarted/blob/main/01-DivingRightIn.ipynb
+- 02: https://colab.research.google.com/github/APARCAI4CLimateSchool/HandsOn_GettingStarted/blob/main/02-PlottingSpatialDistributions.ipynb
+- 03: https://colab.research.google.com/github/APARCAI4CLimateSchool/HandsOn_GettingStarted/blob/main/03-TimeSeries.ipynb
+- 04: https://colab.research.google.com/github/APARCAI4CLimateSchool/HandsOn_GettingStarted/blob/main/04-WeightsRollsEOFs.ipynb
+- 05: https://colab.research.google.com/github/APARCAI4CLimateSchool/HandsOn_GettingStarted/blob/main/05-EvolvingSpatialFields.ipynb
+
 Links to data files: 
 - [oni.ascii.txt](https://cloud.tsinghua.edu.cn/f/4310a98472304798981e/) | 25K
 - [tna.csv](https://cloud.tsinghua.edu.cn/f/1ea5017868cd4ae79625/) | 20K
