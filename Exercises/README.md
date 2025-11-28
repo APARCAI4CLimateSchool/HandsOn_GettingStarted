@@ -1,3 +1,9 @@
+Links to colab:
+- https://colab.research.google.com/github/APARCAI4CLimateSchool/HandsOn_GettingStarted/blob/main/Exercises/06-Maps.ipynb
+- https://colab.research.google.com/github/APARCAI4CLimateSchool/HandsOn_GettingStarted/blob/main/Exercises/07-Hovmoller.ipynb
+- https://colab.research.google.com/github/APARCAI4CLimateSchool/HandsOn_GettingStarted/blob/main/Exercises/08-TimeSeries.ipynb
+- https://colab.research.google.com/github/APARCAI4CLimateSchool/HandsOn_GettingStarted/blob/main/Exercises/09-Onset.ipynb
+
 Related paper on the method: https://doi.org/10.1029/2025GL118131
 
 Data files: 
